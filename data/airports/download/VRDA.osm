@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="dsf2aptdat.py" copyright="scenery gateway contributors">
+<node id="223" visible="true" version="1"   lat="5.826063567" lon="73.476180433"/>
+<node id="224" visible="true" version="1"   lat="5.826122967" lon="73.476272978"/>
+<node id="225" visible="true" version="1"   lat="5.826215034" lon="73.476213270"/>
+<node id="226" visible="true" version="1"   lat="5.826155634" lon="73.476120724"/>
+<way id="0" visible="true" version="1" >
+<nd ref="223"/>
+<nd ref="224"/>
+<nd ref="225"/>
+<nd ref="226"/>
+<nd ref="223"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="3"/>
+<tag k="facade_file_name" v="lib/buildings/facades/generic/mid_modern_01.fac"/>
+</way>
+</osm>

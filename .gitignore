@@ -3,3 +3,4 @@ data/shapefiles/download
 data/shapefiles/polygons.*
 data/shapefiles/lines.*
 data/SRTM-3
+osm2city
